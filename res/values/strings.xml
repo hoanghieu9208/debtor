@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Debtor Management</string>
+    <string name="amount_of_money">Tổng tiền</string>
+    <string name="amount_of_people">Số người chơi</string>
+    <string name="result_title">Kết quả</string>
+    <string name="prefix_result_detail">Người thứ</string>
+    <string name="btnTinhTien">Tính tiền</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
